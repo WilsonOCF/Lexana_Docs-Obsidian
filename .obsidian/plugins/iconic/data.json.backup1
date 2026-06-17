@@ -1,0 +1,124 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "maxBackups": 2,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "00 - Inicio": {
+      "icon": "lucide-folder",
+      "color": "yellow"
+    },
+    "00 - Inicio/Readme.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "01 - Vision General": {
+      "icon": "lucide-folder",
+      "color": "yellow"
+    },
+    "02 - Modulos": {
+      "icon": "lucide-folder",
+      "color": "yellow"
+    },
+    "02 - Modulos/Agente Legal.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "02 - Modulos/Areas Legales.md.md": {
+      "color": "green"
+    },
+    "02 - Modulos/Calendario.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "02 - Modulos/Clientes.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "02 - Modulos/Expedientes.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "02 - Modulos/SINOE.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "02 - Modulos/Tablero Principal.md.md": {
+      "color": "green"
+    },
+    "02 - Modulos/Tareas.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "03 - Endpoints (API)": {
+      "icon": "lucide-folder",
+      "color": "yellow"
+    },
+    "03 - Endpoints (API)/Agente Legal.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "03 - Endpoints (API)/Areas Legales.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "03 - Endpoints (API)/Calendario.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "03 - Endpoints (API)/Clientes.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "03 - Endpoints (API)/Expediente.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "03 - Endpoints (API)/SINOE.md.md": {
+      "color": "green"
+    },
+    "03 - Endpoints (API)/Tablero.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "03 - Endpoints (API)/Tareas.md.md": {
+      "icon": "lucide-file",
+      "color": "green"
+    },
+    "04 - Flujos": {
+      "icon": "lucide-folder",
+      "color": "yellow"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

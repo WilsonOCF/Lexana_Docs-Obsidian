@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "81106eaea3006047",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9ca3bac289f3b86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f11d95aacdf83ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Endpoints (API)/Areas Legales.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Areas Legales.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74b4dc60efb32600",
+    "type": "split",
+    "children": [
+      {
+        "id": "1016acf13f46831a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5daac31380fdde44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0ce0aef5c71208fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3df44ab1b32c46b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e811b301fe1698bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cae985c8f3bef0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7306b2a14018130d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Inicio/Readme.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Readme.md"
+            }
+          },
+          {
+            "id": "50b46a470c4d580a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Inicio/Readme.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Readme.md"
+            }
+          },
+          {
+            "id": "f94eed6045fda3c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "13700e144639f59e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "e985f694755f6532",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Inicio/Readme.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Readme.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "iconic:Abrir libro de reglas": false
+    }
+  },
+  "active": "6f11d95aacdf83ea",
+  "lastOpenFiles": [
+    "03 - Endpoints (API)/Agente Legal.md.md",
+    "02 - Modulos/Tareas.md.md",
+    "02 - Modulos/Tablero Principal.md.md",
+    "02 - Modulos/SINOE.md.md",
+    "00 - Inicio/Readme.md.md",
+    "01 - Vision General/Lexana.md.md",
+    "04 - Flujos/Flujo - Uso típico.md.md",
+    "03 - Endpoints (API)/Tareas.md.md",
+    "02 - Modulos/Busquedas Legales.md",
+    "Pasted image 20260616210937.png",
+    "02 - Modulos/Agente Legal.md.md",
+    "02 - Modulos/Calendario.md.md",
+    "02 - Modulos/Expedientes.md.md",
+    "02 - Modulos/Clientes.md.md",
+    "02 - Modulos/Areas Legales.md.md",
+    "03 - Endpoints (API)/Calendario.md.md",
+    "03 - Endpoints (API)/Expediente.md.md",
+    "03 - Endpoints (API)/SINOE.md.md",
+    "03 - Endpoints (API)/Tablero.md.md",
+    "03 - Endpoints (API)/Areas Legales.md.md",
+    "03 - Endpoints (API)/Clientes.md",
+    "03 - Endpoints (API)/Sin título.md",
+    "Sin título.base",
+    "04 - Flujos",
+    "03 - Endpoints (API)",
+    "Bienvenido.md",
+    "02 - Modulos",
+    "01 - Vision General",
+    "00 - Inicio"
+  ]
+}
